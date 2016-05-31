@@ -1,0 +1,6 @@
+.FixedBar {
+    width: 300px;
+    height: 500px;
+    float: left;
+    border: 1px solid #8a6343;
+}
